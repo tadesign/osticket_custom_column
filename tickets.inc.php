@@ -1,7 +1,7 @@
 <?php
 /* 
  * Column display of Custom Fields. OsTicket 1.9.4
- * Based on Andrew Bennet's code http://www.andrewbennett.com.au/?p=487
+ * Based on Andrew Bennett's code http://www.andrewbennett.com.au/?p=487
  * Modified by Richard Barratt @ http://www.ta-design.co.uk
  * tickets.inc.php file from /include/staff/tickets.inc.php
  * 
